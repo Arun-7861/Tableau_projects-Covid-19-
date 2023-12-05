@@ -4,7 +4,7 @@
 
 
 Objective-The objective of a COVID-19 dashboard analysis in  India could be multifaceted, addressing various aspects of the pandemic.
-Monitoring and Visualizing Key Metrics,Demographic and Socioeconomic Analysis,Vaccination Progress and Coverage,
+Monitoring and Visualizing Key Metrics,Demographic and Socioeconomic Analysis,Vaccination Progress and Coverage.
 
 KPI INSIGHTS:-
 (1)-Map:Total death by state.
